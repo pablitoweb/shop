@@ -14,16 +14,16 @@ stronę główną, na której umieszczone będą informacje ogólne; historia sp
 
 Strona główna ma także zawierać pasek nawigacji, a w nim:
 
-*asortyment, czyli dostępne w sklepach produkty wraz ze zdjęciami
-*informacje, gdzie zamieszczone zostaną istotne wytyczne dotyczące limitów/restrykcji przewożenia różnych towarów za granicę oraz aktualne informacje związane ze sklepami 
-*kontakt, standardowo; e-mail, telefon, adres, w miarę możliwości mapa z dokładną lokalizacją punktów 
+asortyment, czyli dostępne w sklepach produkty wraz ze zdjęciami
+informacje, gdzie zamieszczone zostaną istotne wytyczne dotyczące limitów/restrykcji przewożenia różnych towarów za granicę oraz aktualne informacje związane ze sklepami 
+kontakt, standardowo; e-mail, telefon, adres, w miarę możliwości mapa z dokładną lokalizacją punktów 
 
 Grupa docelowa to obywatele Republiki Federalnej Niemiec, szczególnie Ci zamieszkujący północno-wschodnią część państwa. W związku z tym, dodatkowo, stworzę transkrypcję dla treści umieszczonych na stronie, tak aby była ona zrozumiała dla zainteresowanych.
 Priorytetem jest wykreowanie miejsca w przestrzeni internetowej, w której znajdą oni kluczowe informacje, o które tak często pytają będąc w sklepie. 
 Oprócz tego, celem strony jest dotarcie do jak największej grupy odbiorców, tak aby zdobyć nowe grono wiernych klientów.
 Zatem główne cele to:
-*poszerzenie “zasięgu” 
-*informatywność 
-*komunikacyjność
+poszerzenie “zasięgu” 
+informatywność 
+komunikacyjność
 
 Nawiązując do ostatniego podpunktu wspomnę, że strona internetowa (według zaleceń i prośby właściciela sklepów) nie ma być skomplikowana, z uwagi na niski poziom zaawansowania grupy docelowej w obsługiwaniu witryn internetowych.
