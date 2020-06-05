@@ -27,3 +27,5 @@ informatywność,
 komunikacyjność,
 
 Nawiązując do ostatniego podpunktu wspomnę, że strona internetowa (według zaleceń i prośby właściciela sklepów) nie ma być skomplikowana, z uwagi na niski poziom zaawansowania grupy docelowej w obsługiwaniu witryn internetowych.
+
+
