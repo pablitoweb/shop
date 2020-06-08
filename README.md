@@ -2,7 +2,7 @@
 
 link do projektu: https://www.figma.com/file/IKevlM3qRk3mmx54rsdKsl/Website?node-id=0%3A1
 
-Koncept strony internetowej
+##Koncept strony internetowej
 
 Mój projekt ma być bezpośrednią odpowiedzią na zapotrzebowanie pewnej firmy.
 Konkretniej rzecz ujmując, ma to być strona internetowa prezentująca dwa sklepy.
